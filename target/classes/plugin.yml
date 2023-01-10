@@ -1,0 +1,4 @@
+name: Ping
+version: '1.0-SNAPSHOT'
+main: leeheojae.ping.Ping
+api-version: 1.19
